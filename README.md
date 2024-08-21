@@ -32,7 +32,7 @@
 <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=dark&font=Redressed">
 </p>
 
-### <div align="center">I'm Angha Varangaonkar, a Full Stack Web Deveoper Enthusiast. 👨‍💻</div>  
+### <div align="center">I'm Angha Varangaonkar, a Full Stack Web Deveoper Enthusiast. 👨‍🎓</div>  
   
 
 - 🔭 I’m currently working on learning new Backend skills.  
