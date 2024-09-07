@@ -38,7 +38,7 @@
 - 🔭 I’m currently working on learning new Backend skills.  
   
 
-- 🌱 I’m currently learning Full Stack Web Development , Linux , Cybersecurity , Java+DSA !!  
+- 🌱 I’m currently learning Full Stack Web Development , Linux , Cybersecurity , Java+DSA ! 
   
 
 - ❓ Ask me about anything related to Web Development, Problem Solving, Competetive Coding :)  
