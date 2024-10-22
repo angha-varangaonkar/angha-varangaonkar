@@ -1,6 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
+
+[![An image of @anghavarangaonkar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anghavarangaonkar)](https://holopin.io/@anghavarangaonkar)  
   
 <h1 align="center">    
   Let's Connect and have a Chat!💬                                                  
