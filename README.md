@@ -8,7 +8,7 @@
   Let's Connect and have a Chat!💬                                                                                                                                                 
 </h1>                                           
                                                             
-</h3>                            
+</h3>                             
 <p align="center" style='margin: 16px 4px 8px;'>   
     <a href="mailto:anghavarangaonkar1104@gmail.com" target="blank" rel="noreferrer">
         <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="mailto:kartikjain2626@gmail.com" height="30" width="30" style="background: #ffffff; border-radius: 5px; border: 1px solid #000000; margin: 0 2px; padding: 2px;" />
