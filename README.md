@@ -131,9 +131,7 @@
   <p align="center"><img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=angha-varangaonkar&theme=highcontrast&show_icons=true" />
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angha-varangaonkar&theme=highcontrast&layout=donut&show_icons=true" />
   <img height="180em" src="https://streak-stats.demolab.com/?user=angha-varangaonkar&theme=highcontrast&show_icns=true" /></a></p>
-  <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=angha-varangaonkar&bg_color=000000&color=ffffff&line=e5f231&point=e4950c&area=true&show_icons=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></p>
-
+  
 <br/> 
 
 <br/>  
